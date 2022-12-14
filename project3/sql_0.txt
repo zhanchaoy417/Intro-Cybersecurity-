@@ -1,0 +1,8 @@
+
+
+1.0
+username= admin
+password= ' or 0 = 0 --
+
+(Note : the website will login as admin)
+

